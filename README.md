@@ -1,2 +1,2 @@
--  Hallo, I’m @Mister-Ky
+-  Hallo, I’m Mister-Ky
 -  <^>
